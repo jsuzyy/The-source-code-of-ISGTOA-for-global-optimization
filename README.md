@@ -1,0 +1,1 @@
+Group Teaching Optimization Algorithm with Information Sharing (ISGTOA) is our proposed a new algorithm for solving numerical optimization and engineering optimization, which will be published in journal of intelligence manufacturing. The detailed information will be added in the futue.
